@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RamDwarakanath
-- 👀 I’m interested in fruits
-- 🌱 I’m currently learning the alphabet
-- 💞️ I’m looking to collaborate on tests ... jk
-- 📫 How to reach me ... idk
+Never Give Up
 
 <!---
 RamDwarakanath/RamDwarakanath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
